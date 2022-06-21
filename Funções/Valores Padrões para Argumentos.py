@@ -53,3 +53,18 @@ def nome_completo(nome, sobrenome1, sobrenome2, padrao = "m"):
     return nome_cheio
 
 print('O seu nome completo é {}'.format(nome_completo(nome, sobrenome1, sobrenome2, padrao)))
+
+
+
+
+# def filtrar_texto(lista, pedaco_texto):
+#     lista_filtrada = []
+#     for item in lista:
+#         if pedaco_texto in item:
+#             lista_filtrada.append(item)
+#     return lista_filtrada
+#
+# lista_email = ['ray@gmail.com', 'Leia@gmail.com', 'Camilal@hotmail.com', 'frk@yahoo.com.br']
+#
+# lista = filtrar_texto(lista_email, "yahoo")
+# print("Segue os e-mails com servidor de @gmail: {} ".format(lista))
