@@ -1,2 +1,6 @@
-Olá, mundo!
-Este é um arquivo de texto criado usando Python.
+Quantidade de anuncio: 274
+Quantidade de alunos por origem: 226
+Quantidade de alunos por origem YouTube: 155
+Quantidade de alunos por origem Instagram: 22
+Quantidade de alunos por origem Instagram Facebook: 2
+Quantidade de alunos por origem Site: 73
